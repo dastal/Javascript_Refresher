@@ -1,2 +1,2 @@
 # Javascript_Refresher
- Refresher in Javascript, HTML and CSS
+ Refresher in Javascript, HTML, and CSS.
